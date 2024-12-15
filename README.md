@@ -29,23 +29,35 @@ The app displays:
 ## Screenshots
 
 ### 1. Historical Stock Data and Closing Prices
-![Historical Stock Data](screenshots/historical_data.png)
+
+![Historical Stock Data and Closing Prices](https://github.com/user-attachments/assets/8e6da584-81fe-4f08-9a85-43e2dcc3199a)
+
+
+![Historical Stock Data and Closing Prices1](https://github.com/user-attachments/assets/86d6da94-d06f-403b-ae4e-6c2a5a5170ec)
+
 
 ---
 
 ### 2. Actual vs Predicted Prices
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+![Actual vs Predicted Prices](https://github.com/user-attachments/assets/e048c278-de15-4ead-8049-06996668787c)
+
+
+![Actual vs Predicted Prices1](https://github.com/user-attachments/assets/57e72fca-5fe4-40ed-af17-84fb0f09d554)
 
 ---
 
 ### 3. Model Accuracy Metrics
-![Model Accuracy](screenshots/model_accuracy.png)
+
+![Model Accuracy Metrics](https://github.com/user-attachments/assets/d7277361-0664-4ca7-942f-48b6c4210502)
 
 ---
 
 ### 4. Future Stock Price Predictions
-![Future Predictions](screenshots/future_predictions.png)
 
+![Future Stock Price Predictions](https://github.com/user-attachments/assets/e7983bd2-e5d2-447f-ac96-04dc05042222)
+
+
+![Future Stock Price Predictions1](https://github.com/user-attachments/assets/3a00546b-33f7-4811-872f-f3a7a579e430)
 ---
 
 ## Setup Instructions
